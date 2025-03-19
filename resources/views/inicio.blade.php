@@ -1,0 +1,1 @@
+<h1>inicio.blade</h1>
